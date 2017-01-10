@@ -1,0 +1,25 @@
+{
+  "name": "calc-solver",
+  "version": "1.0.0",
+  "description": "Solves calculus problems",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saminfoysol/CalcSolver.git"
+  },
+  "author": "Samin Foysol",
+  "contributors": [{
+    "name": "Kirk Thaker"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saminfoysol/CalcSolver/issues"
+  },
+  "homepage": "https://github.com/saminfoysol/CalcSolver#readme"
+}
