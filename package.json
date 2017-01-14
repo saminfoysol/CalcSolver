@@ -14,12 +14,17 @@
     "url": "git+https://github.com/saminfoysol/CalcSolver.git"
   },
   "author": "Samin Foysol",
-  "contributors": [{
-    "name": "Kirk Thaker"
-  }],
+  "contributors": [
+    {
+      "name": "Kirk Thaker"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/saminfoysol/CalcSolver/issues"
   },
-  "homepage": "https://github.com/saminfoysol/CalcSolver#readme"
+  "homepage": "https://github.com/saminfoysol/CalcSolver#readme",
+  "dependencies": {
+    "mathjs": "^3.8.1"
+  }
 }
